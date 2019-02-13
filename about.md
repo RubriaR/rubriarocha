@@ -59,8 +59,8 @@ En esta primera fase, la visualización incluye descripciones breves de cada pro
 
 La meta es servir como un recurso valioso para tener un encuentro con la frontera y sus diversas prácticas, así como indagar sobre el trabajo crítico que se lleva a cabo en esta compleja región. Este proyecto crea espacios alternativos y proporciona recursos relacionados con las zonas fronterizas, además de oponerse a las representaciones negativas de las fronteras, sus comunidades y sus culturas.
 
-***
-Esta es una Declaración de Objetivos dinámica, que evolucionará a medida que el proyecto continúe desarrollándose.
+
+Esta es una Declaración de Objetivos dinámica, que evolucionará a medida que el proyecto continúe desarrollándose.***
 
 
 Fronteras globales
