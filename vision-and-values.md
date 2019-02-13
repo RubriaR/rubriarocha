@@ -8,7 +8,7 @@ Vision
 
 The long-term goal of United Fronteras is to engage with borderlands around the world to compare the experiences of these regions, bringing forward perspectives that oftentimes contradict the sentiments of division that are frequently influenced and represented by those in power. By engaging with this project, Humanities scholars are learning digital humanities practices through their research. This will prepare scholars to use both research and digital platforms/tools as new forms of social interventions to:
 
-Use technology as resistance
+● Use technology as resistance
 
 Trace a digital record of the borderlands
 
@@ -81,7 +81,7 @@ El objetivo a largo plazo de United Fronteras consiste en abordar las zonas fron
 
 Valores fundamentales del equipo / Declaración de valores
 
-	Los valores fundamentales de United Fronteras son los principios que guían nuestra misión, visión, metas, objetivos y procedimientos de creación:
+Los valores fundamentales de United Fronteras son los principios que guían nuestra misión, visión, metas, objetivos y procedimientos de creación:
 
 ●  Colaboración
 
