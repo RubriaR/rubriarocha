@@ -10,21 +10,21 @@ The long-term goal of United Fronteras is to engage with borderlands around the 
 
 ● Use technology as resistance
 
-Trace a digital record of the borderlands
+● Trace a digital record of the borderlands
 
-Reach borderland communities
+● Reach borderland communities
 
-Deconstruct geopolitical boundaries
+● Deconstruct geopolitical boundaries
 
-Document past and present daily lives at the borders
+● Document past and present daily lives at the borders
 
-Share and create knowledge from personal experiences
+● Share and create knowledge from personal experiences
 
-Decentralize the discourse/rhetoric about the borderlands
+● Decentralize the discourse/rhetoric about the borderlands
 
-Revisit and interpret historical records and narratives through a new lens
+● Revisit and interpret historical records and narratives through a new lens
 
-Expand the notion of digital humanities from borderlands communities
+● Expand the notion of digital humanities from borderlands communities
 
 
 
@@ -32,23 +32,23 @@ Team Core Values / Value Statement
 
 The core values of  United Fronteras are principles that guide our mission, vision, goals, objectives and creation procedures:
 
-Collaboration
+● Collaboration
 
-Interdisciplinarity
+● Interdisciplinarity
 
-Non-hierarchical Leadership
+● Non-hierarchical Leadership
 
-Transnational Alliances
+● Transnational Alliances
 
-Transfronteriza Consciousness
+● Transfronteriza Consciousness
 
-Humanizing Borderlands
+● Humanizing Borderlands
 
-Intersectionality and Diversity
+● Intersectionality and Diversity
 
-Awareness of Indigenous Place, History, and Presence
+● Awareness of Indigenous Place, History, and Presence
 
-Creation of a Digital Borderland Community
+● Creation of a Digital Borderland Community
 
 
 ------------------------------------------------------------------------------------------------
