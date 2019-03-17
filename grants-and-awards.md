@@ -7,12 +7,12 @@ permalink: /grants-and-awards/
 
 •2017-2019	**HASTAC Scholar Fellowship** / CoDHR Texas A&M University ($600.00)
 
-		Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
+Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
 
 
 •2015-2016 **ASECS Graduate Fellowship**. Tuition Scholarship and Graduate Research Assistantship (1 year)
 
-	American Society for Eighteen-Century Studies
+American Society for Eighteen-Century Studies
 
 
 •2015 **Murray & Celeste Fasken Graduate Student Teaching Award**
