@@ -13,9 +13,6 @@ Graduate Certificate: *Digital Humanities*
 
 Dissertation title: *Rompiendo con la retórica del poder a través del activismo en los medios digitales. El caso de los migrantes de regreso a México*
 
-Dissertation Co-directors: *Dr. Laura Mandell and Dr. Hilaire Kallendorf*
-Committee: *Dr. Richard Curry (TAMU), Dr. María Esther Quintana (TAMU) and Dr. Karla Blanco (University of Idaho)*
-
 **M.A. Foreign Languages and Cultures**  -Washington State University-(2011)
 
 Area of Concentration: *Hispanic Literature*
@@ -30,9 +27,9 @@ Areas of Concentration: *Curriculum design and Educational Psychology*
 **B.S. Psychology** -Universidad Autónoma de Nuevo León, México- (2002)
 Area of Concentration: *Clinical Psychology*
 
-------------------------------------------------------------------------
-
-### Professional Workshops and Certifications
+---------------------------------------------------------------------
+<br>
+### **Professional Workshops and Certifications**
 
 #### **Digital Humanities**
 
@@ -64,8 +61,8 @@ Region IV, Houston TX, U.S.
 **Speech-Language Therapist Certification** 2005
 Universidad de Monterrey, Mexico
 
------------------------------------------------------------------------
-
+---------------------------------------------------------------------
+<br>
 ### **DH Skills**
 
 *(different skill level for each one)*
@@ -131,9 +128,9 @@ Universidad de Monterrey, Mexico
   * Digital Storytelling
 
 
-  ---------------------------------------------------------------------
-
-#### **Languages**
+  -------------------------------------------------------------------
+<br>
+### **Languages**
 
 * Spanish (native)
 

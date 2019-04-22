@@ -11,26 +11,29 @@ permalink: /research/
 
 •	**Global Outreach Director** for *[18thConnect]* -Virtual Research Environment from the Advance Research Consortium (ARC)-
 
-•	**Founder and Director** *Redes, migrantes sin fronteras* -Digital Initiative- (forthcoming, 2019)
+•	**Founder and Director** *Redes, migrantes sin fronteras* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (forthcoming, 2019)
 
-•	**Research team collaborator**, *United Fronteras* –Digital Archive- (forthcoming, 2019)
+•	**Research team collaborator**, *United Fronteras* –Digital Archive- (forthcoming, April 2019)
 
 •	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-
 
 •	**Research team collaborator** *[Humanizando la Deportación]* –Digital Archive–
 
 ------------------------------------------------------------------------
-
+<br>
 ### **Publications**
 
 •	“**[Seamos aliados]**”. Reflexiones, [Torn Apart/Separados] Vol. 2.
 
 •	**Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada**. Chasqui: Revista de Literatura Latinoamericana. May, 2013: 42.1.
 
-•	**[“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]** Language and Literature Journal. 7. 1 (2012). Web.
+•	**[“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]** Language and Literature Journal. 7. 1 (2012). Web.*
+
+(This article has been part of the required readings for the Spanish Cinema graduate course at the University of Birmingham since Spring 2013. For the 2018-2019 syllabi, taught by Dr. Francis Lough)
+
 
 ------------------------------------------------------------------------
-
+<br>
 ### **Presentations**
 
 •	Chen, Eric C., Valdivia Vazquez, Juan Antonio, Dosani, Kabeel M., Munoz De Zubiria, Gabriela, & **Rocha de Luna, Rubria**.  “Promoting Resilience and Psychological Sense of Community among Displaced Migrants.” Poster proposal accepted for the Annual Convention of the American Psychological Association, Chicago, IL. August 8-11, 2019.
@@ -53,9 +56,26 @@ permalink: /research/
 
 •	**Rocha de Luna, Rubria**. “Las manifestaciones eróticas de Cuca Martínez en Te di la vida entera”. XXXVI Congreso Anual de Literaturas Hispánicas. Lo erótico (o su contrario) en la literatura y el cine. Indiana University of Pennsylvania. October 22, 2010.
 
+----------------------------------------------------------------------
+<br>
+### **Interviews**
+
+*[Investing In Mexico’s Future.]* Monitor on Psychology. April 1, 2019.
+
+Interview for the American Psychological Association about the research work with Mexican returnees.
+
+<br>
+
+*[Program piloted to help online students connect.]* WSU Insider. August 16, 2012.
+
+Interview about the use of VoiceThread in the design of Spanish online courses at Washington State University’s Global Campus.
+
+
 
 [18thConnect]:http://www.18thConnect.org
 [Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
 [Humanizando la Deportación]:http://humanizandoladeportacion.ucdavis.edu/en/
 [Seamos aliados]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
 [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]:https://lljournal.commons.gc.cuny.edu/2012-1-rocha-texto/
+[Investing In Mexico’s Future.]: http://www.apamonitor-digital.org/apamonitor/201904/MobilePagedReplica.action?pm=2&folio=20#pg23
+[Program piloted to help online students connect.]: https://news.wsu.edu/2012/08/16/program-piloted-to-help-online-students-connect/
