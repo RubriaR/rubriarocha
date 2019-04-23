@@ -13,7 +13,7 @@ permalink: /service-and-affiliations/
 **Social Media Manager and Website Developer** (2014) Texas A&M University Fourth Hispanic Studies Annual Graduate Conference entitled “Translating Social Movements.”
 
 ------------------------------------------------------------------------
-
+<br>
 #### **Affiliations**
 
 • HASTAC
