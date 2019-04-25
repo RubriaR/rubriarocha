@@ -4,7 +4,6 @@ title: Professional Experience
 permalink: /professional-experience/
 ---
 
-R
 ### **DH Professional Experience**
 
 •  **Graduate Research Assistant**  –ASECS Graduate Fellow– (2015-16)

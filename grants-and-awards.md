@@ -4,7 +4,6 @@ title: Grants & Awards
 permalink: /grants-and-awards/
 ---
 
-R
 •2017-2019	**HASTAC Scholar Fellowship** / CoDHR Texas A&M University ($600.00)
 
 Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)

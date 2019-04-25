@@ -4,7 +4,6 @@ title: Education
 permalink: /education/
 ---
 
-R
 **Ph.D Hispanic Studies**  -Texas A&M University-(2013- Dec, 2019 expected)
 
 Area of Concentration: *Hispanic Cultural Studies*
