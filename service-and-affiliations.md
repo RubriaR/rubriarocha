@@ -3,7 +3,7 @@ layout: page
 title: Service & Affiliations
 permalink: /service-and-affiliations/
 ---
-
+R
 **HASTAC Scholar** (2017-2019) Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
 
 **ACH Conference 2019 Reviewer** (Dec2018-Jan2019) The Association of Computers and Humanities (ACH)
