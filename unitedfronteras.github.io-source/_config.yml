@@ -1,0 +1,20 @@
+
+title: UNITED FRONTERAS
+email: unitedfronteras@gmail.com
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+# The content
+include: ["_pages"]
+
+languages: ["en", "es"]
+exclude_from_localizations: ["assets", "images"]
