@@ -1,4 +1,4 @@
-## Proyectos a incluir
+**Estamos buscando proyectos digitales sobre la frontera**
 
 SI TIENE INFORMACIÓN QUE COMPARTIR, POR FAVOR LLENE EL SIGUIENTE FORMULARIO:
 
