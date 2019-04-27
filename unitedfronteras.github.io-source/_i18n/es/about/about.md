@@ -2,7 +2,9 @@
 
 La misión de *United Fronteras* es reunir proyectos activos e inactivos que usen al menos un componente
 digital para documentar las fronteras desde diversas perspectivas (literatura, archivos, arte, historias
-orales y música, entre otras) desde tiempos precoloniales hasta el siglo XXI. Los proyectos seleccionados se van a exhibir/presentar en un mapa digital con diferentes visualizaciones que van a ofrecer a la audiencia una oportunidad única para involucrarse, de manera significativa, en las capas multidimensionales de los espacios
+orales y música, entre otras) desde tiempos precoloniales hasta el siglo XXI. Los proyectos seleccionados se van a exhiber/
+presentar en un mapa digital con diferentes visualizaciones que van a ofrecer a la audiencia una oportunidad
+única para involucrarse, de manera significativa, en las capas multidimensionales de los espacios
 fronterizos a partir de colaboraciones multidisciplinarias, institucionales, individuales y/o
 colectivas. Además del mapa, se va a mantener un registro digital de proyectos que representan y se
 encuentran en las regiones fronterizas.
@@ -13,12 +15,12 @@ idiomas. La intención es reunir iniciativas pasadas, actuales y aquellas que se
 que contengan al menos un componente digital y hablen de la frontera de Estados Unidos y México. Esta
 fase contiene iniciativas que se han creado en los últimos años y que denotan discursos relevantes de
 resistencia y activismo, al igual que proyectos fundados anteriormente que exhiben el patrimonio
-cultural a través de los periódos históricos.
+cultural local, regional y/o nacional de la región fronterizas a través de los periódos históricos.
 
 La meta es servir como un recurso valioso para tener un encuentro con la frontera y sus diversas
 prácticas, así como indagar sobre el trabajo crítico que se lleva a cabo en esta compleja región. Este
 proyecto crea espacios alternativos y proporciona recursos relacionados con las zonas fronterizas,
-además de oponerse a las representaciones negativas de sus comunidades y sus culturas.
+además de oponerse a las representaciones negativas de las fronteras, sus comunidades y sus culturas.
 
 ## Fronteras globales
 Las fronteras son imaginarias y/o geográficas. Así mismo, son divisiones creadas por el hombre para

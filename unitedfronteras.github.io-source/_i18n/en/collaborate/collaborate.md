@@ -1,5 +1,4 @@
-
-**We are looking for digital projects about the border**
+## Projects to include
 
 IF YOU HAVE INFORMATION TO SHARE WITH US PLEASE FILL OUT THIS FORM:
 
