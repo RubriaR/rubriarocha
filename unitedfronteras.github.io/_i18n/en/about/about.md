@@ -1,4 +1,4 @@
-## Objectives
+## Objectives R
 
 The mission of **United Fronteras** is to bring together active and inactive works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. The selected projects will be featured through a digital map and various visualizations that will offer audiences a unique opportunity to meaningfully engage in the multi-dimensional layers of border spaces through multi-disciplinary, institutional, community-based, and individual collaborations. This platform will also establish and maintain a digital record of projects that encompass the borderlands.
 
