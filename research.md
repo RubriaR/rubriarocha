@@ -15,7 +15,7 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 
 •	**Founder and Director** *Redes, migrantes sin fronteras* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (forthcoming, 2019)
 
-•	**Research team collaborator**, *United Fronteras* –Digital Archive- (forthcoming, April 2019)
+•	**Research team collaborator**, *[United Fronteras]* –Digital Archive- (forthcoming, April 2019)
 
 •	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-
 
@@ -75,9 +75,10 @@ Interview about the use of VoiceThread in the design of Spanish online courses a
 
 
 [18thConnect]:http://www.18thConnect.org
+[United Fronteras]:https://unitedfronteras.github.io/
 [Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
 [Humanizando la Deportación]:http://humanizandoladeportacion.ucdavis.edu/en/
 [Seamos aliados]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
 [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]:https://lljournal.commons.gc.cuny.edu/2012-1-rocha-texto/
-[Investing In Mexico’s Future.]: http://www.apamonitor-digital.org/apamonitor/201904/MobilePagedReplica.action?pm=2&folio=20#pg23
+[Investing In Mexico’s Future.]: https://www.apa.org/monitor/2019/04/investing-mexico#
 [Program piloted to help online students connect.]: https://news.wsu.edu/2012/08/16/program-piloted-to-help-online-students-connect/
