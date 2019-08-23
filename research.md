@@ -19,7 +19,7 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 
 •	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-
 
-•	**Research team collaborator** *[Humanizando la Deportación]* –Digital Archive–
+•	**Research team collaborator** (2018-2019) *[Humanizando la Deportación]* –Digital Archive–
 
 ------------------------------------------------------------------------
 <br>
