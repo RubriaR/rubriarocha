@@ -9,13 +9,13 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 
 ### **Digital Humanities Projects**
 
-•	**Director** *Digital Scholarship in Mexican Studies –DiSiMexS-* -Virtual Research Environment from the Advance Research Consortium (ARC)- (forthcoming, 2019)
+•	**Director** *Digital Scholarship in Mexican Studies –DiSiMexS-* -Virtual Research Environment from the Advance Research Consortium (ARC)- (forthcoming, 2020)
 
 •	**Global Outreach Director** for *[18thConnect]* -Virtual Research Environment from the Advance Research Consortium (ARC)-
 
-•	**Founder and Director** *Redes, migrantes sin fronteras* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (forthcoming, 2019)
+•	**Founder and Director** *Redes, migrantes sin fronteras* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (forthcoming, 2020)
 
-•	**Research team collaborator**, *[United Fronteras]* –Digital Archive- (forthcoming, April 2019)
+•	**Research team collaborator**, *[United Fronteras]* –Digital Archive-
 
 •	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-
 
@@ -38,9 +38,15 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 <br>
 ### **Presentations**
 
-•	Chen, Eric C., Valdivia Vazquez, Juan Antonio, Dosani, Kabeel M., Munoz De Zubiria, Gabriela, & **Rocha de Luna, Rubria**.  “Promoting Resilience and Psychological Sense of Community among Displaced Migrants.” Poster proposal accepted for the Annual Convention of the American Psychological Association, Chicago, IL. August 8-11, 2019.
+•	**Rocha de Luna, Rubria**. "Redes, migrantes sin fronteras: la tecnología y su aplicación como proyecto social". Paper to be presented at the session: "Our Common Humanity: Voces de resistencias". XXXVIII International Congress of the Latin American Studies Association, (LASA).  Guadalajara, Mexico. May 13-16, 2020.
 
-•	Valdivia, Juan A., **Rocha de Luna, Rubria**. “Human rights and leadership ties: Describing how DACA returnees and Mexican people are reshaping Mexico´s environment.”Paper presented at the Annual Convention of the American Psychological Association, San Francisco, CA. August 9-12, 2018.
+•	**Rocha de Luna, Rubria**. "United Fronteras: Un archivo digital como acto de resistencia". Paper presented at the VIII Jornada de Fronteras/Borderlands: Cultura e Historia. Tecnológico de Monterrey. Monterrey, Mexico. October 3-4, 2019.
+
+•	**Rocha de Luna, Rubria**. "El uso de la tecnología al servicio de la justicia social en el proyecto Redes, migrantes sin fronteras". Paper presented at the VIII Jornada de Fronteras/Borderlands: Cultura e Historia. Tecnológico de Monterrey. Monterrey, Mexico. October 3-4, 2019.
+
+•	Chen, Eric C., Valdivia Vazquez, Juan Antonio, Dosani, Kabeel M., Munoz De Zubiria, Gabriela, & **Rocha de Luna, Rubria**.  “Promoting Resilience and Psychological Sense of Community among Displaced Migrants.” Poster for the Annual Convention of the American Psychological Association, Chicago, IL. August 8-11, 2019.
+
+•	Valdivia, Juan A., **Rocha de Luna, Rubria**. “Human rights and leadership ties: Describing how DACA returnees and Mexican people are reshaping Mexico´s environment.” Paper presented at the Annual Convention of the American Psychological Association, San Francisco, CA. August 9-12, 2018.
 
 •	**Rocha de Luna, Rubria**, Mandell, Laura. “Hispanic 18th Connect: una nueva plataforma para la investigación digital en español.” DH2018, Mexico City, Mexico, June 26-29, 2018.
 

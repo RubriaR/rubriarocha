@@ -4,8 +4,9 @@ title: Grants & Awards
 permalink: /grants-and-awards/
 ---
 
-•2019  **Project Development Grant** / CoDHR Texas A&M University ($1,000.00)
+•2020  **LASA 2020 Congress Travel Grant** / Latin American Studies Association  ($500.00 + registration)
 
+•2019 **Project Development Grant** / CoDHR Texas A&M University ($1,000.00)
 
 •2017-2019	**HASTAC Scholar Fellowship** / CoDHR Texas A&M University ($600.00)
 

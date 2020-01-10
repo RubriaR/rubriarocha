@@ -24,19 +24,10 @@ permalink: /service-and-affiliations/
 
 •	Modern Language Association (MLA)
 
-•	American Psychological Association (APA)
+•	American Psychological Association (APA)  Divisions:
 
-Divisions
+*45 Society for the Psychological Study of Culture, Ethnicity and Race*
 
-*45 Society for the Psychological Study of Culture, Ethnicity and Race
+*46 Media Psychology*
 
-46 Media Psychology
-
-52 International Psychology*
-
-
-**Non-profit initiatives:**
-
-•	Otros Dreams en Acción (ODA)
-
-•	Dream in México A.C.
+*52 International Psychology*

@@ -4,11 +4,11 @@ title: Education
 permalink: /education/
 ---
 
-**Ph.D Hispanic Studies**  -Texas A&M University-(2013- Dec, 2019 expected)
+**Ph.D Hispanic Studies**  -Texas A&M University-(2013- Dec, 2020 expected)
 
 Area of Concentration: *Hispanic Cultural Studies*
 
-Graduate Certificate: *Digital Humanities*
+Graduate Certificate (2019): *Digital Humanities*
 
 Dissertation title: *Rompiendo con la retórica del poder a través del activismo en los medios digitales. El caso de los migrantes de regreso a México*
 
