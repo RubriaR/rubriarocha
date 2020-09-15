@@ -4,13 +4,13 @@ title: Education
 permalink: /education/
 ---
 
-**Ph.D Hispanic Studies**  -Texas A&M University-(2013- Dec, 2020 expected)
+**Ph.D Hispanic Studies**  -Texas A&M University-(2013- May, 2021 expected)
 
 Area of Concentration: *Hispanic Cultural Studies*
 
 Graduate Certificate (2019): *Digital Humanities*
 
-Dissertation title: *Rompiendo con la retórica del poder a través del activismo en los medios digitales. El caso de los migrantes de regreso a México*
+Dissertation title: *Rompiendo con la retórica del poder a través del activismo digital. El caso de los migrantes de regreso a México*
 
 **M.A. Foreign Languages and Cultures**  -Washington State University-(2011)
 
@@ -70,19 +70,15 @@ Universidad de Monterrey, Mexico
 
   * C++, C#, C.Net
 
-  * Visual Studio
-
-  * SQL Server / MySQL
-
   * HTML5 / Markdown & CSS
 
   * JavaScript
 
-  * XML/XSLT
+  * SQL Server / MySQL
+
+  * Visual Studio
 
   * PHP
-
-  * Phyton
 
 
 **CMS**
@@ -96,11 +92,11 @@ Universidad de Monterrey, Mexico
 
   * Scholarly Digital Editions (XML, TEI, XSLT, OCR, OpenRefine)
 
-  * Text Analysis (Topic Modeling, Python, Voyant)
+  * Text Analysis (Topic Modeling, R, Phyton, Voyant)
 
   * Visualizations (Gephi, Juxtacommons, Voyant)
 
-  * Minimal Computing (Jekyll and GitHub)
+  * Minimal Computing (Jekyll, Git and GitHub)
 
 
 **Educational Platforms**
@@ -116,7 +112,7 @@ Universidad de Monterrey, Mexico
 
 **Educational Tools**
 
-  * Synchronous interactive tools (Wimba, Collaborate)
+  * Synchronous interactive tools (Zoom, Google meet, Wimba, Collaborate)
 
   * Asynchronous interactive tool (VoiceThread)
 

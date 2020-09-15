@@ -9,21 +9,26 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 
 ### **Digital Humanities Projects**
 
-•	**Director** *Digital Scholarship in Mexican Studies –DiSiMexS-* -Virtual Research Environment from the Advance Research Consortium (ARC)- (forthcoming, 2020)
+•	**Director** *Digital Scholarship in Mexican Studies –DiSiMexS-* -Virtual Research Environment from the Advance Research Consortium (ARC)- (forthcoming, 2021)
 
-•	**Global Outreach Director** for *[18thConnect]* -Virtual Research Environment from the Advance Research Consortium (ARC)-
+•	**Global Outreach Director** for *[18thConnect]* -Virtual Research Environment from the Advance Research Consortium (ARC)-(2014-)
 
-•	**Founder and Director** *Redes, migrantes sin fronteras* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (forthcoming, 2020)
+•	**Founder and Director** *[Redes, migrantes sin fronteras]* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (2020-)
+  *[Reviewed]* by Laura Gonzales, University of Florida (Reviews in Digital Humanities)
 
-•	**Research team collaborator**, *[United Fronteras]* –Digital Archive-
+•	**Research team collaborator**, *[United Fronteras]* –Digital Archive-(2019-)
 
-•	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-
+•	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-(2018)
 
 •	**Research team collaborator** (2018-2019) *[Humanizando la Deportación]* –Digital Archive–
 
 ------------------------------------------------------------------------
 <br>
 ### **Publications**
+
+• "**El caso de *United Fronteras*: Computacion minima para desafiar fronteras en las humanidades digitales poscoloniales**" (2020) (*Under review*)
+
+• **[Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing-** Reviews in Digital Humanities. Aug/Sept, 2020
 
 •	“**[Seamos aliados]**”. Reflexiones, [Torn Apart/Separados] Vol. 2.
 
@@ -37,6 +42,8 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 ------------------------------------------------------------------------
 <br>
 ### **Presentations**
+
+• Dosani, K.M., **Rocha de Luna, R.**, Chen, E.C., Munoz de Zubiria, G., & Valdivia Vazquez, J.A. (2020, August) Fostering empowerment and resilience through digital activism in psychological practice. Poster presented at the 127th Annual Convention of the American Psychological Association, Washington, D.C.
 
 •	**Rocha de Luna, Rubria**. "Redes, migrantes sin fronteras: la tecnología y su aplicación como proyecto social". Paper to be presented at the session: "Our Common Humanity: Voces de resistencias". XXXVIII International Congress of the Latin American Studies Association, (LASA).  Guadalajara, Mexico. May 13-16, 2020.
 
@@ -81,10 +88,13 @@ Interview about the use of VoiceThread in the design of Spanish online courses a
 
 
 [18thConnect]:http://www.18thConnect.org
+[Redes, migrantes sin fronteras]: https://redes.dh.tamu.edu/
+[Reviewed]:https://reviewsindh.pubpub.org/pub/redes-migrantes-sin-fronteras/release/3
 [United Fronteras]:https://unitedfronteras.github.io/
 [Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
 [Humanizando la Deportación]:http://humanizandoladeportacion.ucdavis.edu/en/
 [Seamos aliados]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
 [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]:https://lljournal.commons.gc.cuny.edu/2012-1-rocha-texto/
+[Rev. of Humanizing Deportation]:https://reviewsindh.pubpub.org/pub/humanizing-deportation/release/2
 [Investing In Mexico’s Future.]: https://www.apa.org/monitor/2019/04/investing-mexico#
 [Program piloted to help online students connect.]: https://news.wsu.edu/2012/08/16/program-piloted-to-help-online-students-connect/
