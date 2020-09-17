@@ -26,7 +26,7 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 <br>
 ### **Publications**
 
-• Fernandez, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette." El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales" (2020) (*Under review*)
+• Fernández, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette." El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales" (2020) (*Under review*)
 
 • **Rocha de Luna, Rubria**. [Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing- Reviews in Digital Humanities. Aug/Sept, 2020
 
