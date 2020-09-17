@@ -26,17 +26,15 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 <br>
 ### **Publications**
 
-• "**El caso de *United Fronteras*: Computacion minima para desafiar fronteras en las humanidades digitales poscoloniales**" (2020) (*Under review*)
+• Fernandez, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette." El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales" (2020) (*Under review*)
 
-• **[Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing-** Reviews in Digital Humanities. Aug/Sept, 2020
+• **Rocha de Luna, Rubria**. [Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing- Reviews in Digital Humanities. Aug/Sept, 2020
 
-•	“**[Seamos aliados]**”. Reflexiones, [Torn Apart/Separados] Vol. 2.
+•	**Rocha de Luna, Rubria**. ["Seamos aliados"]. Reflexiones, [Torn Apart/Separados] Vol. 2.
 
-•	**Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada**. Chasqui: Revista de Literatura Latinoamericana. May, 2013: 42.1.
+•	**Rocha de Luna, Rubria**. [Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.] Chasqui: Revista de Literatura Latinoamericana. May, 2013: 42.1.
 
-•	**[“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]** Language and Literature Journal. 7. 1 (2012). Web.*
-
-(This article has been part of the required readings for the Spanish Cinema graduate course at the University of Birmingham since Spring 2013. For the 2018-2019 syllabi, taught by Dr. Francis Lough)
+•	**Rocha de Luna, Rubria**. [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.] Language and Literature Journal. 7. 1 (2012). Web.* (This article has been part of the required readings for the Spanish Cinema graduate course at the University of Birmingham since Spring 2013. For the 2018-2019 syllabi, taught by Dr. Francis Lough)
 
 
 ------------------------------------------------------------------------
@@ -80,7 +78,6 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 Interview for the American Psychological Association about the research work with Mexican returnees.
 
 <br>
-
 *[Program piloted to help online students connect.]* WSU Insider. August 16, 2012.
 
 Interview about the use of VoiceThread in the design of Spanish online courses at Washington State University’s Global Campus.
@@ -93,7 +90,8 @@ Interview about the use of VoiceThread in the design of Spanish online courses a
 [United Fronteras]:https://unitedfronteras.github.io/
 [Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
 [Humanizando la Deportación]:http://humanizandoladeportacion.ucdavis.edu/en/
-[Seamos aliados]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
+["Seamos aliados"]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
+[Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.]:https://go.gale.com/ps/anonymous?id=GALE%7CA344496453&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01458973&p=AONE&sw=w
 [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]:https://lljournal.commons.gc.cuny.edu/2012-1-rocha-texto/
 [Rev. of Humanizing Deportation]:https://reviewsindh.pubpub.org/pub/humanizing-deportation/release/2
 [Investing In Mexico’s Future.]: https://www.apa.org/monitor/2019/04/investing-mexico#
