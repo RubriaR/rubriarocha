@@ -1,29 +1,52 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /Research/
 ---
 
 Rubria Rocha de Luna is specializing in quantitative methods from the Digital Humanities field to approach texts from cultural narratives and social media. Her current work revolves around digital rhetoric through text and data mining of the visual and textual content of social media posts from groups of returned migrants to Mexico. Other research interests are: digital archiving and preservation, visual culture and memory.
+
+### **Research Fields**
+
+•	Visual Culture
+•	Digital Humanities, Minimal computing
+•	Public Digital Humanities
+•	Digital and Visual Rhetoric in new media and social media
+•	Use of technology for social justice
+•	Text Mining
+•	Return Migration
+•	Migrant’s Associations
+•	Representations of migrants (written and visual narrative)
+
+
+### **Research Experience**
+
+•  **Director** [Redes, migrantes sin fronteras] -a non-profit digital initiative supported by the Center of Digital Humanities Research (CoDHR) at Texas A&M University- (2020-)
+
+•  **Graduate Research Assistant**  –ASECS Graduate Fellow– (2015-16)
+
+Center of Digital Humanities Research (CoDHR). Texas A&M University
+
+•  **Graduate Research Assistant** [The Cervantes Project Digital Archive] (spring, 2015)
+
+Center of Digital Humanities Research (CoDHR). Texas A&M University
+
+•  **Student Technician**  –Hispanic 18thConnect–  (summer, 2014)
+
+Center of Digital Humanities Research (CoDHR). Texas A&M University
+
+•	**Research Assistant** – Washington State University, College of Education, (spring, 2012)
+
+Interviews to Hispanic population and translation of surveys about family and divorce.
+
+
+•	**Research Assistant** -Washington State University, College of Food Science- (fall, 2010)
+
+Management of focus groups on Hispanic population related to cooking practices.
+
+--------------------------------------------------------------------------------
 <br>
 
-### **Digital Humanities Projects**
-
-•	**Director** *Digital Scholarship in Mexican Studies –DiSiMexS-* -Virtual Research Environment from the Advance Research Consortium (ARC)- (forthcoming, 2021)
-
-•	**Global Outreach Director** for *[18thConnect]* -Virtual Research Environment from the Advance Research Consortium (ARC)-(2014-)
-
-•	**Founder and Director** *[Redes, migrantes sin fronteras]* -Digital Initiative sponsored by the Center of Digital Humanities Research at Texas A&M University- (2020-)
-  *[Reviewed]* by Laura Gonzales, University of Florida (Reviews in Digital Humanities)
-
-•	**Research team collaborator**, *[United Fronteras]* –Digital Archive-(2019-)
-
-•	**Collaborator in Allies Section** *[Torn Apart/Separados]* – Critical Data & Visualization Intervention-(2018)
-
-•	**Research team collaborator** (2018-2019) *[Humanizando la Deportación]* –Digital Archive–
-
-------------------------------------------------------------------------
-<br>
 ### **Publications**
 
 • Fernández, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette." El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales" (2020) (*Under review*)
@@ -69,30 +92,11 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 
 •	**Rocha de Luna, Rubria**. “Las manifestaciones eróticas de Cuca Martínez en Te di la vida entera”. XXXVI Congreso Anual de Literaturas Hispánicas. Lo erótico (o su contrario) en la literatura y el cine. Indiana University of Pennsylvania. October 22, 2010.
 
-----------------------------------------------------------------------
-<br>
-### **Interviews**
 
-*[Investing In Mexico’s Future.]* Monitor on Psychology. April 1, 2019.
-
-Interview for the American Psychological Association about the research work with Mexican returnees.
-
-<br>
-*[Program piloted to help online students connect.]* WSU Insider. August 16, 2012.
-
-Interview about the use of VoiceThread in the design of Spanish online courses at Washington State University’s Global Campus.
-
-
-
-[18thConnect]:http://www.18thConnect.org
-[Redes, migrantes sin fronteras]: https://redes.dh.tamu.edu/
-[Reviewed]:https://reviewsindh.pubpub.org/pub/redes-migrantes-sin-fronteras/release/3
-[United Fronteras]:https://unitedfronteras.github.io/
-[Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
-[Humanizando la Deportación]:http://humanizandoladeportacion.ucdavis.edu/en/
+[Redes, migrantes sin fronteras]:http://redes.dh.tamu.edu/
+[The Cervantes Project Digital Archive]:http://cervantes.tamu.edu/
 ["Seamos aliados"]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
 [Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.]:https://go.gale.com/ps/anonymous?id=GALE%7CA344496453&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01458973&p=AONE&sw=w
 [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]:https://lljournal.commons.gc.cuny.edu/2012-1-rocha-texto/
 [Rev. of Humanizing Deportation]:https://reviewsindh.pubpub.org/pub/humanizing-deportation/release/2
-[Investing In Mexico’s Future.]: https://www.apa.org/monitor/2019/04/investing-mexico#
-[Program piloted to help online students connect.]: https://news.wsu.edu/2012/08/16/program-piloted-to-help-online-students-connect/
+[Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
