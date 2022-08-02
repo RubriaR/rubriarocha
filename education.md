@@ -30,7 +30,7 @@ Area of Concentration: *Clinical Psychology*
 
 #### **Digital Humanities**
 
-**Graduate Certificate in Digital Humanities** (2022)
+**Digital Humanities Graduate Certificate** (2022)
 College of Liberal Arts
 Texas A & M University
 
@@ -65,21 +65,17 @@ Universidad de Monterrey, Mexico
 <br>
 ### **DH Skills**
 
-*(different skill level for each one)*
+*(basic to intermediate knowledge)*
 
 **Programming Languages**
 
-  * C++, C#, C.Net
+  * JavaScript, C++
 
   * HTML5 / Markdown & CSS
-
-  * JavaScript
 
   * SQL Server / MySQL
 
   * Visual Studio
-
-  * PHP
 
 
 **CMS**
@@ -91,9 +87,9 @@ Universidad de Monterrey, Mexico
 
 **Digital Humanities**
 
-  * Scholarly Digital Editions (XML, TEI, XSLT, OCR, OpenRefine)
+  * Scholarly Digital Editions
 
-  * Text Analysis (Topic Modeling, R, Phyton, Voyant)
+  * Text Analysis ("R", Phyton, Voyant)
 
   * Visualizations (Gephi, Juxtacommons, Voyant)
 
@@ -113,15 +109,13 @@ Universidad de Monterrey, Mexico
 
 **Educational Tools**
 
-  * Synchronous interactive tools (Zoom, Google meet, Wimba, Collaborate)
+  * Synchronous interactive tools (Zoom, Google meet, Collaborate)
 
   * Asynchronous interactive tool (VoiceThread)
 
   * Video screen capture (Camtasia/Jing)
 
-  * Audio Editor (Audacity)
-
-  * Digital Storytelling
+  * Audio Editor (Audacity) Photo Edition (GIMP)
 
 
   -------------------------------------------------------------------
