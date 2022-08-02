@@ -4,11 +4,9 @@ title: Education
 permalink: /education/
 ---
 
-**Ph.D Hispanic Studies**  -Texas A&M University-(2013- May, 2021 expected)
+**Ph.D Hispanic Studies**  -Texas A&M University-(2022)
 
-Area of Concentration: *Hispanic Cultural Studies*
-
-Graduate Certificate (2019): *Digital Humanities*
+Area of Concentration: *Hispanic Visual and Cultural Studies*
 
 Dissertation title: *Rompiendo con la retórica del poder a través del activismo digital. El caso de los migrantes de regreso a México*
 
@@ -32,6 +30,9 @@ Area of Concentration: *Clinical Psychology*
 
 #### **Digital Humanities**
 
+**Graduate Certificate in Digital Humanities** (2022)
+College of Liberal Arts
+Texas A & M University
 
 **Software Development Technician (certificate)** (2017-18, 1 year)
 School of Mechanical and Electrical Engineering (FIME) Universidad Autónoma de Nuevo León, Mexico
