@@ -1,0 +1,14 @@
+---
+layout: page
+title: About
+permalink: /About/
+---
+
+Rubria Rocha de Luna has a bachelor’s degree in Psychology with an emphasis on clinical psychology from the Universidad Autónoma de Nuevo León (2002), a master's degree in Educational Sciences with a specialization in curriculum design and psychopedagogy from the Universidad de Monterrey (2005), another M.A. in Foreign Languages and Cultures with a concentration in Hispanic Literature and Culture from Washington State University (2011), and a Ph.D (2022) in Hispanic Studies with a concentration in Visual and Cultural Studies and with a Digital Humanities Graduate Certificate from Texas A&M University.
+These degrees have led her to have a range of professional experiences: she was a practitioner psychologist; more recently, she has been an instructor in Mexico and in the United States in higher education and graduate studies, as well as an online course developer of online courses on Psychology, Education, Spanish as a second language and Text Analysis. Also, while studying her doctorate, she was a research assistant at the Center of Digital Humanities Research (CoDHR) at Texas A&M University where she worked on two projects: the Cervantes Project image gallery (digital archive) and the development of the web platform for ASECS (American Society for the Eighteen Century Studies). She also, independently, collaborated on Torn Apart / Separated (digital intervention in response to the Zero Tolerance policy). Since 2014, she is the Global Outreach Director of 18thConnect, Eighteenth Century Scholarship Online (www.18thconnect.org), an online aggregator of the metadata of digital material (texts and files) related to the study and research of the eighteenth century. Additionally, she collaborates in the [United Fronteras] project, a platform that exhibits digital projects that have been developed around the Mexico-US border topic. Currently, she is Co-founder and Director of [Redes, migrantes sin fronteras], a non-profit digital initiative that lists, maps, and connects pro-immigrant associations, shelters, and other social, cultural, and artistic and activists programs and initiatives in Mexico.
+Rubria’s research interests are interdisciplinary, as she uses quantitative methods from the Digital Humanities, such as text and data mining of new media, especially social media, to analyze the rhetoric around return migration to Mexico. She is also interested in the development and preservation of digital archives, public memory studies, and rhetoric. She has presented and published papers on these topics at conferences and academic journals in Mexico, the United States, and Canada.
+
+If you want to know more about Rubria you can visit her website or her twitter.
+
+[United Fronteras]:https://unitedfronteras.github.io/es/
+[Redes, migrantes sin fronteras]:https://redes.dh.tamu.edu/
