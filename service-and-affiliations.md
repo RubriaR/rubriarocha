@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Service & Affiliations
-permalink: /service-and-affiliations/
+title: Teaching
+permalink: /Teaching/
 ---
 
 **HASTAC Scholar** (2017-2019) Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
