@@ -16,7 +16,7 @@
 title: Rubria Rocha de Luna
 email: rubria@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rubria Rocha is a PhD candidate in Hispanic Studies with an emphasis on Visual/Cultural Studies from the Department of Hispanic Studies, and a graduate certificate in Digital Humanities from the Center of Digital Humanities Research (CoDHR), both at Texas A&M University.
+  Rubria Rocha de Luna is Co-Founder and Director of Redes, migrantes sin fronteras which is a non-profit digital initiative that connects migrants with support associations. She completed her PhD in Hispanic Studies with a Graduate Certificate in Digital Humanities from Texas A&M University. She specializes in quantitative methods to approach cultural narratives and social media posts. Her current research revolves around digital rhetoric through text and data mining of Facebook posts from groups of returned migrants to Mexico.
 baseurl: "/rubriarocha" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RubriaR
