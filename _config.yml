@@ -16,7 +16,7 @@
 title: Rubria Rocha de Luna
 email: rubria@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Rubria Rocha de Luna is Co-Founder and Director of Redes, migrantes sin fronteras which is a non-profit digital initiative that connects migrants with support associations. She completed her PhD in Hispanic Studies with a Graduate Certificate in Digital Humanities from Texas A&M University. She specializes in quantitative methods to approach cultural narratives and social media posts. Her current research revolves around digital rhetoric through text and data mining of Facebook posts from groups of returned migrants to Mexico.
+  Rubria Rocha de Luna Ph.D is Co-Founder and Director of Redes, migrantes sin fronteras which is a non-profit digital initiative that connects migrants with support associations. She specializes in quantitative methods to approach cultural narratives and social media posts. Her current research revolves around digital rhetoric through text analysis of Facebook posts from groups of returned migrants to Mexico.
 baseurl: "/rubriarocha" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RubriaR
