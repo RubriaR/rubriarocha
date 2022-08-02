@@ -4,9 +4,7 @@ title: Grants & Awards
 permalink: /grants-and-awards/
 ---
 
-•2020  **LASA 2020 Congress Travel Grant** / Latin American Studies Association  ($500.00 + registration)
-
-•2019 **Project Development Grant** / CoDHR Texas A&M University ($1,000.00)
+•2019 **Project Development Grant** / CoDHR Texas A&M University ($1,000.00) *Canceled due to COVID-19 travel restrictions
 
 •2017-2019	**HASTAC Scholar Fellowship** / CoDHR Texas A&M University ($600.00)
 
@@ -33,16 +31,6 @@ Secretariat of Public Education, Mexico
 Initiative for Digital Humanities, Media, and Culture (IDHMC) Texas A & M University
 
 
-•2014 **Department of Hispanic Studies Travel Funds** ($1,475)
-
-Texas A & M University
-
-
-•2013 **Initiative for Digital Humanities, Media, and Culture (IDHMC) Travel funds** ($250)
-
-Texas A & M University
-
-
 •2013 **Lechner Graduate Grant** ($5,000)
 
 Texas A & M University, College of Liberal Arts
@@ -51,16 +39,6 @@ Texas A & M University, College of Liberal Arts
 •2013-2015 **Tuition scholarship and Teaching assistantship for the PhD program** (2 years)
 
 Texas A & M University, College of Liberal Arts
-
-
-•2010-2012 **Vanderford Scholarship Fund** (4 travel grants, $950 total)
-
-Washington State University, Dept. of Foreign Languages and Cultures
-
-
-•2010 **Graduate Student Association Travel Grant** ($180)
-
-Washington State University  
 
 
 •2010-2011 **Tuition scholarship and Teaching assistantship for the Masters program** (2 years)
@@ -81,3 +59,20 @@ CENEVAL, Centro Nacional de Evaluación para la Educación Superior, A.C.
 •1997-2002 	**High Academic Achievement Scholarship** (tuition and fee)
 
 Universidad Autónoma de Nuevo León, México
+
+--------------------------------------------------------------------
+<br>
+
+Travel Funds
+
+•LASA 2020 Congress Travel Grant / Latin American Studies Association ($500.00 + registration) *Canceled by the Association due to COVID-19 travel restrictions
+
+•Scholarship to attend DHSI2014
+Department of Hispanic Studies Travel Funds ($1,475)
+Texas A & M University
+
+•Vanderford Scholarship Fund (4 travel grants, $950 total)
+Washington State University, Dept. of Foreign Languages and Cultures
+
+•Graduate Student Association Travel Grant ($180)
+Washington State University
