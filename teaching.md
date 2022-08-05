@@ -5,15 +5,15 @@ permalink: /Teaching/
 ---
 
 ### **Fields Qualified to Teach**
-•	Digital Humanities
-•	Scholarly Digital Editions
-•	Visual Culture
-•	Social media discourse
-•	Rhetoric, (digital and visual)
-•	Public memory
-•	Hispanic Cinema
-•	Spanish Literature
-•	Spanish as a Second Language
++	Digital Humanities
++	Scholarly Digital Editions
++	Visual Culture
++	Social media discourse
++	Rhetoric, (digital and visual)
++	Public memory
++	Hispanic Cinema
++	Spanish Literature
++	Spanish as a Second Language
 
 -------------------------------------------------------------------------------
 <br>
