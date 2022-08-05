@@ -8,15 +8,15 @@ Rubria Rocha de Luna is specializing in quantitative methods from the Digital Hu
 
 ### **Research Fields**
 
-•	Visual Culture
-•	Digital Humanities, Minimal computing
-•	Public Digital Humanities
-•	Digital and Visual Rhetoric in new media and social media
-•	Use of technology for social justice
-•	Text Mining
-•	Return Migration
-•	Migrant’s Associations
-•	Representations of migrants (written and visual narrative)
++	Visual Culture
++	Digital Humanities, Minimal computing
++	Public Digital Humanities
++	Digital and Visual Rhetoric in new media and social media
++	Use of technology for social justice
++	Text Mining
++	Return Migration
++	Migrant’s Associations
++	Representations of migrants (written and visual narrative)
 
 
 ### **Research Experience**
