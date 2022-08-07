@@ -24,18 +24,6 @@ Redes, migrantes sin fronteras es una iniciativa de solidaridad digital, creada 
 •	**Research team collaborator** (2018-2019) *[Humanizando la Deportación]* –Digital Archive–
 
 --------------------------------------------------------------------------------
-<br>
-### **Interviews**
-
-*[Investing In Mexico’s Future.]* Monitor on Psychology. April 1, 2019.
-
-Interview for the American Psychological Association about the research work with Mexican returnees.
-
-<br>
-*[Program piloted to help online students connect.]* WSU Insider. August 16, 2012.
-
-Interview about the use of VoiceThread in the design of Spanish online courses at Washington State University’s Global Campus.
-
 
 
 [18thConnect]:http://www.18thConnect.org
@@ -44,5 +32,3 @@ Interview about the use of VoiceThread in the design of Spanish online courses a
 [United Fronteras]:https://unitedfronteras.github.io/
 [Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
 [Humanizando la Deportación]:http://humanizandoladeportacion.ucdavis.edu/en/
-[Investing In Mexico’s Future.]: https://www.apa.org/monitor/2019/04/investing-mexico#
-[Program piloted to help online students connect.]: https://news.wsu.edu/2012/08/16/program-piloted-to-help-online-students-connect/
