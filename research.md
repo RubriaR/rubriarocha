@@ -48,7 +48,7 @@ Management of focus groups on Hispanic population related to cooking practices.
 
 ### **Publications**
 
-## *Peer-review articles*
+# *Peer-review articles*
 
 • Fernández, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette. ["El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales"] *Digital Humanities Quarterly*, vol.16, no. 2, 2022.
 
@@ -56,11 +56,11 @@ Management of focus groups on Hispanic population related to cooking practices.
 
 •	**Rocha de Luna, Rubria**. [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.] *Language and Literature Journal. 7. 1 (2012). Web.* -This article has been part of the required readings for the Spanish Cinema graduate course at the University of Birmingham since Spring 2013. For the 2018-2019 syllabi, taught by Dr. Francis Lough-
 
-## *Other articles*
+# *Other articles*
 
 •	**Rocha de Luna, Rubria**. ["Seamos aliados"]. *Reflexiones*, [Torn Apart/Separados] Vol. 2.
 
-## *Reviews*
+# *Reviews*
 
 • **Rocha de Luna, Rubria**. [Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing-. *Reviews in Digital Humanities*. Aug/Sep, 2020
 
@@ -71,13 +71,13 @@ Management of focus groups on Hispanic population related to cooking practices.
 <br>
 ### **Presentations**
 
-## *Invited Speaker*
+# *Invited Speaker*
 
 •	**Rocha de Luna, Rubria**. Paper on Redes, migrantes sin fronteras for the “Migration, Storytelling and Digital Solidarity (Panel).” United Fronteras DH Symposium 2021. June 2-4, 2021.
 
 •	**Rocha de Luna, Rubria**. “Construcción de la justicia social: Diálogo con mujeres promotoras de la equidad, género e inclusión social.” Panelist. Mujeres inspirando tu mejor versión: Un espacio para conmemorar el Día Internacional de la Mujer 2021. Centro de Equidad de Género e Inclusión, Universidad de Monterrey. March, 2021.
 
-## *Conference papers and roundtables*
+# *Conference papers and roundtables*
 
 • **Rocha de Luna, Rubria**. Position paper on “Creating United Fronteras (Roundtable).” United Fronteras DH Symposium 2021. June 2-4, 2021.
 
