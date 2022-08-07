@@ -12,7 +12,7 @@ permalink: /projects/
 
 ### **Collaboration in Digital Projects**
 
-	**[18thConnect]** -Virtual Research Environment from the Advance Research Consortium (ARC)-(*Global Outreach Director* 2014-)
+•	**[18thConnect]** -Virtual Research Environment from the Advance Research Consortium (ARC)-(*Global Outreach Director* 2014-)
 
 •	**[United Fronteras]** –Digital Archive-(*Research team collaborator* 2019-)
 
