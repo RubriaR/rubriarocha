@@ -39,7 +39,6 @@ Center of Digital Humanities Research (CoDHR). Texas A&M University
 
 Interviews to Hispanic population and translation of surveys about family and divorce.
 
-
 •	**Research Assistant** -Washington State University, College of Food Science- (fall, 2010)
 
 Management of focus groups on Hispanic population related to cooking practices.
@@ -49,20 +48,40 @@ Management of focus groups on Hispanic population related to cooking practices.
 
 ### **Publications**
 
-• Fernández, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette." El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales" (2020) (*Under review*)
+## *Peer-review articles*
 
-• **Rocha de Luna, Rubria**. [Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing- Reviews in Digital Humanities. Aug/Sept, 2020
+• Fernández, Sylvia, **Rocha de Luna, Rubria**, and Zapata, Annette. ["El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales"] *Digital Humanities Quarterly*, vol.16, no. 2, 2022.
 
-•	**Rocha de Luna, Rubria**. ["Seamos aliados"]. Reflexiones, [Torn Apart/Separados] Vol. 2.
+• **Rocha de Luna, Rubria** and Zavala García, Alicia. [“Humanidades públicas digitales: Construyendo una comunidad digital solidaria en Redes, migrantes sin fronteras.”] *Hispania*, vol. 104 no. 4, 2021, p. 691-703.
 
-•	**Rocha de Luna, Rubria**. [Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.] Chasqui: Revista de Literatura Latinoamericana. May, 2013: 42.1.
+•	**Rocha de Luna, Rubria**. [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.] *Language and Literature Journal. 7. 1 (2012). Web.* -This article has been part of the required readings for the Spanish Cinema graduate course at the University of Birmingham since Spring 2013. For the 2018-2019 syllabi, taught by Dr. Francis Lough-
 
-•	**Rocha de Luna, Rubria**. [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.] Language and Literature Journal. 7. 1 (2012). Web.* (This article has been part of the required readings for the Spanish Cinema graduate course at the University of Birmingham since Spring 2013. For the 2018-2019 syllabi, taught by Dr. Francis Lough)
+## *Other articles*
+
+•	**Rocha de Luna, Rubria**. ["Seamos aliados"]. *Reflexiones*, [Torn Apart/Separados] Vol. 2.
+
+## *Reviews*
+
+• **Rocha de Luna, Rubria**. [Rev. of Humanizing Deportation] -Digital Archive by Robert Irwing-. *Reviews in Digital Humanities*. Aug/Sep, 2020
+
+•	**Rocha de Luna, Rubria**. [Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.] *Chasqui: Revista de Literatura Latinoamericana*. May, 2013: 42.1.
 
 
 ------------------------------------------------------------------------
 <br>
 ### **Presentations**
+
+## *Invited Speaker*
+
+•	**Rocha de Luna, Rubria**. Paper on Redes, migrantes sin fronteras for the “Migration, Storytelling and Digital Solidarity (Panel).” United Fronteras DH Symposium 2021. June 2-4, 2021.
+
+•	**Rocha de Luna, Rubria**. “Construcción de la justicia social: Diálogo con mujeres promotoras de la equidad, género e inclusión social.” Panelist. Mujeres inspirando tu mejor versión: Un espacio para conmemorar el Día Internacional de la Mujer 2021. Centro de Equidad de Género e Inclusión, Universidad de Monterrey. March, 2021.
+
+## *Conference papers and roundtables*
+
+• **Rocha de Luna, Rubria**. Position paper on “Creating United Fronteras (Roundtable).” United Fronteras DH Symposium 2021. June 2-4, 2021.
+
+• **Rocha de Luna, Rubria**. Position paper on “Reviews in DH Borderlands Special Issue (Roundtable). United Fronteras DH Symposium 2021. June 2-4, 2021.
 
 • Dosani, K.M., **Rocha de Luna, R.**, Chen, E.C., Munoz de Zubiria, G., & Valdivia Vazquez, J.A. (2020, August) Fostering empowerment and resilience through digital activism in psychological practice. Poster presented at the 127th Annual Convention of the American Psychological Association, Washington, D.C.
 
@@ -95,8 +114,11 @@ Management of focus groups on Hispanic population related to cooking practices.
 
 [Redes, migrantes sin fronteras]:http://redes.dh.tamu.edu/
 [The Cervantes Project Digital Archive]:http://cervantes.tamu.edu/
+["El caso de *United Fronteras*: Computación mínima para desafiar fronteras en las humanidades digitales poscoloniales"]: http://www.digitalhumanities.org/dhq/vol/16/2/000608/000608.html
+[“Humanidades públicas digitales: Construyendo una comunidad digital solidaria en Redes, migrantes sin fronteras.”]: https://muse.jhu.edu/article/842244/pdf
 ["Seamos aliados"]:http://xpmethod.plaintext.in/torn-apart/reflections/rubria_rocha.html
 [Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.]:https://go.gale.com/ps/anonymous?id=GALE%7CA344496453&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01458973&p=AONE&sw=w
 [“La iniciación en el conocimiento de la sexualidad como elemento de conflicto en las experiencias de Ana en Cría Cuervos”.]:https://lljournal.commons.gc.cuny.edu/2012-1-rocha-texto/
-[Rev. of Humanizing Deportation]:https://reviewsindh.pubpub.org/pub/humanizing-deportation/release/2
 [Torn Apart/Separados]:http://xpmethod.plaintext.in/torn-apart/
+[Rev. of Humanizing Deportation]:https://reviewsindh.pubpub.org/pub/humanizing-deportation/release/2
+[Rev. of Cristina Rivera Garza. Ningún crítico cuenta esto… by Oswaldo Estrada.]: https://www.jstor.org/stable/43589535
